@@ -1,3 +1,4 @@
+# function use
 def rectArea(width,height):
     # a= width*height
     return width*height
